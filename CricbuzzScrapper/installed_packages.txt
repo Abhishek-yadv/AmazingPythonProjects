@@ -1,0 +1,11 @@
+Package        Version
+-------------- -------
+beautifulsoup4 4.12.3
+bs4            0.0.2
+pip            24.0
+plyer          2.1.0
+pypiwin32      223
+pywin32        306
+setuptools     69.2.0
+soupsieve      2.5
+win10toast     0.9
