@@ -8,8 +8,6 @@ from plyer import notification
 URL = 'http://www.cricbuzz.com/cricket-match/live-scores'
 
 # Function to display notification
-
-
 def notify(title, score):
     # Set maximum length for title and message
     max_title_length = 64
