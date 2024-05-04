@@ -34,7 +34,7 @@ Similar to the MergingCSV project, the [MergingPDF](https://github.com/Abhishek-
 
 ### MovieInformationScraper
 
-The [MovieInformationScraper](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/MovieInformationScraper) is a web scraper that retrieves information about movies from various online sources. With this tool, you can fetch details such as plot summaries, cast information, ratings, and reviews for your favorite movies.
+The [MovieInformationScraper](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/MovieInformationScraper) is a web scraper that retrieves information about movies from IMDB website. With this tool, you can fetch details movies detail such as cast information, ratings, and reviews of your favorite movies.
 
 ### MusicPlayer
 
