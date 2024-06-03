@@ -38,7 +38,7 @@ The [MovieInformationScraper](https://github.com/Abhishek-yadv/AmazingPythonProj
 
 ### MusicPlayer
 
-The [MusicPlayer](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/MusicPlayer)) project is a Python-based music player application that allows you to play and organize your local music collection. With features like playlist creation, song sorting, and various playback controls, this project provides a convenient way to enjoy your music library.
+The [MusicPlayer](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/MusicPlayer)) project is a Python-based music player application that allows you to play and organize your local music collection. With features like playlist creation, song sorting and various playback controls, this project provides a convenient way to enjoy your music library.
 
 ## 🚀 Getting Started
 
