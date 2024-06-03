@@ -34,7 +34,7 @@ Similar to the MergingCSV project, the [MergingPDF](https://github.com/Abhishek-
 
 ### MovieInformationScraper
 
-The [MovieInformationScraper](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/MovieInformationScraper) is a web scraper that retrieves information about movies from IMDB website. With this tool, you can fetch details movies detail such as cast information, ratings, and reviews of your favorite movies.
+The [MovieInformationScraper](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/MovieInformationScraper) is a web scraper that retrieves information about movies from IMDB website. With this tool, you can fetch details movies detail such as cast information, ratings, and reviews of your favourite films.
 
 ### MusicPlayer
 
@@ -42,7 +42,7 @@ The [MusicPlayer](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/ma
 
 ## 🚀 Getting Started
 
-To get started with any of these projects, simply navigate to the respective folder and follow the instructions provided in the the project folder.
+To get started with any of these projects, simply navigate to the respective folder and follow the instructions provided in the project folder.
 
 ## 🤝 Contributing
 
@@ -50,7 +50,7 @@ Contributions to this repository are welcome! If you have any improvements, bug 
 
 ## 📝 License
 
-This repository is licensed under the [MIT License](link_to_license_file). Feel free to use, modify, and distribute the code as per the terms of the license.
+This repository is licensed under the [MIT License](link_to_license_file). Feel free to use, modify, and distribute the code as per the terms of the license..
 
 ## 📬 Contact
 
