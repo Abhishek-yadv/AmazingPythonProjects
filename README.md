@@ -22,7 +22,7 @@ The [LinkedInEmailScraper](https://github.com/Abhishek-yadv/AmazingPythonProject
 
 ### LyricsDownload
 
-The [LyricsDownload](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/LyricsDownload) project is a Python script that allows you to download lyrics for your favorite songs. Simply provide the song name and artist, and the script will fetch the lyrics for you, saving you the hassle of manually searching and copying them from various websites.
+The [LyricsDownload](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/LyricsDownload) project is a Python script that allows you to download lyrics for your favourite songs. Simply provide the song name and artist, and the script will fetch the lyrics, saving you the hassle of manually searching and copying them from various websites.
 
 ### MergingCSV
 
