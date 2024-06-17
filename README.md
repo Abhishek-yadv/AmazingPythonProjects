@@ -50,7 +50,7 @@ Contributions to this repository are welcome! If you have any improvements, bug 
 
 ## 📝 License
 
-This repository is licensed under the [MIT License](link_to_license_file). Feel free to use, modify, and distribute the code as per the terms of the license.
+This repository is licensed under the [MIT License](link_to_license_file). Please feel free to use, modify, and distribute the code according to the terms of the license.
 
 ## 📬 Contact
 
