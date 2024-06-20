@@ -50,7 +50,7 @@ The [NewsScrapper](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/m
 
 ### NoiseReduction
 
-The [NewsScrapper](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/NoiseReduction) project is a Python-based application that aims to reduce noise in audio files. Utilizing advanced audio processing algorithms, this tool can enhance the clarity of recordings by filtering out background noise and other unwanted sounds.
+The [NoiseReduction](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/NoiseReduction) project is a Python-based application that aims to reduce noise in audio files. Utilizing advanced audio processing algorithms, this tool can enhance the clarity of recordings by filtering out background noise and other unwanted sounds.
 ## 🚀 Getting Started
 
 To get started with any of these projects, simply navigate to the respective folder and follow the instructions provided in the project folder.
