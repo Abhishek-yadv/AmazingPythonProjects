@@ -13,7 +13,7 @@ Welcome to the **AmazingPythonProjects** repository! This collection showcases a
 - [MusicPlayer](#musicplayer)
 - [NewsScrapper](#NewsScrapper)
 - [NoiseReduction](#NoiseReduction)
-
+- 
 ### CricbuzzScraper
 
 The [CricbuzzScraper](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/CricbuzzScrapper) project is a web scraper built using Python that extracts cricket-related information from the popular website Cricbuzz and get notified in your windows. With this tool, you can fetch scores, player statistics, and other valuable data related to cricket matches and tournaments.
