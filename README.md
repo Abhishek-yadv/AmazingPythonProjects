@@ -11,7 +11,9 @@ Welcome to the **AmazingPythonProjects** repository! This collection showcases a
 - [MergingPDF](#mergingpdf)
 - [MovieInformationScraper](#movieinformationscraper)
 - [MusicPlayer](#musicplayer)
-
+- [NewsScrapper](#NewsScrapper)
+- [NoiseReduction](#NoiseReduction)
+- 
 ### CricbuzzScraper
 
 The [CricbuzzScraper](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/CricbuzzScrapper) project is a web scraper built using Python that extracts cricket-related information from the popular website Cricbuzz and get notified in your windows. With this tool, you can fetch scores, player statistics, and other valuable data related to cricket matches and tournaments.
@@ -40,6 +42,15 @@ The [MovieInformationScraper](https://github.com/Abhishek-yadv/AmazingPythonProj
 
 The [MusicPlayer](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/MusicPlayer)) project is a Python-based music player application that allows you to play and organize your local music collection. With features like playlist creation, song sorting and various playback controls, this project provides a convenient way to enjoy your music library.
 
+
+### NewsScrapper
+
+The [NewsScrapper](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/NewsScrapper) is a web scraper that retrieves information about news from the MoneyControl website. With this tool, you can fetch details such as headlines, summaries, and article links from the MoneyControl news section.
+
+
+### NoiseReduction
+
+The [NoiseReduction](https://github.com/Abhishek-yadv/AmazingPythonProjects/tree/master/NoiseReduction) project is a Python-based application that aims to reduce noise in audio files. Utilizing advanced audio processing algorithms, this tool can enhance the clarity of recordings by filtering out background noise and other unwanted sounds.
 ## 🚀 Getting Started
 
 To get started with any of these projects, simply navigate to the respective folder and follow the instructions provided in the project folder.
